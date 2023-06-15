@@ -11,3 +11,5 @@ doc/*.txt
 doc/**/*.pdf
 
 node_modules/
+
+ProjectV/
